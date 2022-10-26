@@ -6,11 +6,13 @@ This project is a refractored codebase for the Horiseon Solution Services websit
 
 ## Installation
 
-N/A
+Link to Deployment: https://jaugsbu2.github.io/horiseon-services-refactored/
 
 ## Usage
 
-To use the Horiseon Solution Services Website, you can click on the links in the navigation menu and you will be directed to the article on the website containing information about that service. To inspect the refractored code, you can right click on the webpage and press the "Inspect" option at the bottom of the list.
+To use the Horiseon Solution Services Website, you can click on the links in the navigation menu (see image below) and you will be directed to the article on the website containing information about that service. To inspect the refractored code, you can right click on the webpage and press the "Inspect" option at the bottom of the list.
+
+![Horiseon-Website-Nav](\assets\images\Horiseon-Website-Nav.png)
 
 ## Credits
 
